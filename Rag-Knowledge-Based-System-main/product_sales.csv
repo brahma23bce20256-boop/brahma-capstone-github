@@ -1,0 +1,16 @@
+product,category,revenue_millions,units_sold,region,growth_pct,profit_margin,sentiment
+AWS Cloud,cloud,28800,"15,000",Global,19,38.5,positive
+Azure Cloud,cloud,35000,"18,000",Global,21,42.1,positive
+Google Cloud,cloud,12500,"9,500",Global,25,28.3,positive
+NVIDIA H100,hardware,8500,5000,North America,45,65.2,positive
+Tesla Model Y,automotive,12000,"1,200",North America,8,18.7,positive
+Tesla Model 3,automotive,9500,980,EMEA,5,16.4,positive
+iPhone 16,consumer,28000,"22,000",Global,3,48.9,neutral
+Samsung Galaxy S25,consumer,15000,"18,000",APAC,12,32.1,positive
+Microsoft Office 365,software,22000,"25,000",Global,15,55.3,positive
+Adobe Creative Cloud,software,8500,"12,000",North America,11,60.2,positive
+Meta Ads,advertising,18000,"50,000",Global,14,45.8,neutral
+TikTok Shop,ecommerce,9500,"35,000",APAC,28,22.5,positive
+Supply Chain Platform,logistics,4200,"2,500",EMEA,-3,12.1,negative
+Security Audit Tool,security,1800,800,North America,35,70.5,positive
+Compliance Monitor,legal,950,400,Global,8,25.3,negative

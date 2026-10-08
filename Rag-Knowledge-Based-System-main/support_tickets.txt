@@ -1,0 +1,37 @@
+# Customer Support Tickets - Q4 2024
+
+## Ticket #1042 - Data Breach Investigation
+Customer: Goldman Sachs
+Issue: Unauthorized access detected in cloud storage bucket containing 15,000 client records.
+Severity: Critical. Compliance violation under GDPR and SEC regulations.
+Impact: Revenue loss estimated at $2.5M. Legal liability pending investigation.
+Sentiment: Extremely negative. Customer threatening contract termination.
+Resolution: Forensic audit initiated. Microsoft Azure security team engaged.
+
+## Ticket #1043 - System Outage
+Customer: Tesla
+Issue: AWS us-east-1 outage caused 4-hour disruption to vehicle delivery tracking system.
+Severity: High. 1,200 deliveries delayed across North America.
+Impact: Estimated $850K in operational losses. Supply chain data corrupted.
+Sentiment: Negative. Requesting SLA credit of $500K.
+
+## Ticket #1044 - AI Feature Launch
+Customer: NVIDIA
+Issue: New AI training cluster deployed successfully on schedule. 5,000 H100 GPUs provisioned.
+Severity: Low. Minor configuration optimization requested.
+Impact: Positive. Revenue opportunity of $85M projected for Q1 2025.
+Sentiment: Positive. Customer expanding partnership with Azure.
+
+## Ticket #1045 - Compliance Audit
+Customer: Walmart
+Issue: Annual SOC 2 Type II audit completed with zero findings. Security posture improved.
+Severity: Low. Documentation provided for FTC compliance review.
+Impact: Positive. New cloud migration project approved for Q1 2025.
+Sentiment: Positive. Customer expanding contract to $15M annually.
+
+## Ticket #1046 - Payment Processing Failure
+Customer: Shopify
+Issue: Payment gateway failure during Black Friday peak. 35,000 transactions failed.
+Severity: Critical. Revenue impact of $4.2M in lost sales.
+Impact: Customer trust damaged. Negative press coverage.
+Sentiment: Very negative. Investigation demanded with full RCA within 48 hours.

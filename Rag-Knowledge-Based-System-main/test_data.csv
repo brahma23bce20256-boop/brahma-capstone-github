@@ -1,0 +1,11 @@
+product,category,revenue,units_sold,quarter,sentiment
+Tesla Model 3,Automotive,45000000,1200,Q4 2024,positive
+Tesla Model Y,Automotive,38000000,980,Q4 2024,positive
+Microsoft Azure,Cloud,35000000000,15000,Q4 2024,positive
+Microsoft Office 365,Software,28000000000,22000,Q4 2024,positive
+AWS Cloud,Cloud,32000000000,18000,Q4 2024,positive
+Google Ads,Advertising,24000000000,50000,Q4 2024,neutral
+Compliance Audit,Legal,500000,Q4 2024,investigation
+Security Breach,Q4 2024,Incident,loss,15000000,negative
+Supply Chain,Logistics,12000000,Q4 2024,disruption
+AI Chip,Hardware,85000000,5000,Q4 2024,positive

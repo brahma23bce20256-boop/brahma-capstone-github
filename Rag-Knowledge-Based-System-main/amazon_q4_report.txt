@@ -1,0 +1,24 @@
+# Amazon Quarterly Financial Report - Q4 2024
+
+## Executive Summary
+Amazon reported Q4 2024 revenue of $187.8 billion, a 14% increase year-over-year.
+AWS cloud revenue hit $28.8 billion with 19% growth. Advertising revenue reached $17.3 billion.
+North America segment showed strong performance with $115.6 billion in sales.
+
+## Key Metrics
+- Total Revenue: $187.8B (▲14% YoY)
+- Operating Income: $21.2B (▲61% YoY)
+- Free Cash Flow: $38.2B
+- AWS Revenue: $28.8B (▲19%)
+- Advertising Revenue: $17.3B (▲18%)
+
+## Risk Factors
+Regulatory compliance remains a priority with new FTC guidelines effective January 2025.
+Supply chain disruptions in APAC region impacted Q4 delivery metrics by 2.3%.
+Litigation pending: EU antitrust investigation into marketplace practices.
+Amazon faces increased competition from Microsoft Azure and Google Cloud in enterprise segment.
+Currency exchange volatility in Latin America and EMEA regions affected international revenue by $1.2B.
+
+## Outlook
+Q1 2025 guidance: Revenue $158-163B. AWS growth expected to accelerate with AI/ML services.
+New partnership with NVIDIA for AI training infrastructure. Expansion into healthcare analytics.

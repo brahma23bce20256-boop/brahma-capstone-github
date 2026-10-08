@@ -1,0 +1,25 @@
+# HR Employee Satisfaction Survey - Q4 2024
+
+## Department: Engineering
+Response Rate: 85% (340/400 employees)
+- Overall satisfaction: 4.2/5 (positive)
+- Work-life balance: 3.8/5 (neutral)
+- Compensation: 4.5/5 (positive)
+- Career growth: 4.0/5 (positive)
+Comments: "Great AI projects with NVIDIA partnership. Cloud migration to Azure improved productivity. Need better supply chain integration tools."
+
+## Department: Sales
+Response Rate: 78% (195/250 employees)
+- Overall satisfaction: 3.5/5 (neutral)
+- Work-life balance: 2.8/5 (negative)
+- Compensation: 4.2/5 (positive)
+- Career growth: 3.2/5 (neutral)
+Comments: "Revenue targets increased 15% but headcount frozen. Compliance training taking too much time. Regional teams in APAC and EMEA need more support."
+
+## Department: Support
+Response Rate: 72% (180/250 employees)
+- Overall satisfaction: 2.9/5 (negative)
+- Work-life balance: 2.5/5 (negative)
+- Compensation: 3.1/5 (neutral)
+- Career growth: 2.8/5 (negative)
+Comments: "Ticket volume up 40% after Black Friday outage. Shopify incident caused major burnout. Need better SLA management tools. Microsoft Dynamics integration failed."
